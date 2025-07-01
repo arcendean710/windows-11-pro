@@ -3,7 +3,7 @@ How to Install Windows 11 Pro on Any PC? 💻✨
 
 Installing **Windows 11 Pro** on any PC opens the door to advanced productivity tools, enhanced security features, and a sleek modern interface. Whether you're upgrading from a previous version, switching from Windows 11 Home, or performing a clean install, this guide will help you understand how to **install Windows 11 Pro** the right way. ✅
 
-.. image:: start.png
+.. image:: install-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
